@@ -3,7 +3,7 @@
 # Profitable App Profiles – App Store & Google Play Market Analysis 📱
 
 ## Overview
-This project analyzes historical data from the Apple App Store and Google Play Store to identify app profiles that attract the most users and generate the most revenue.  
+This project analyzes historical data from the Apple App Store and Google Play Store to identify app profiles that attract the most users.
 The goal is to help app developers make data-driven decisions about what types of apps to build.
 
 ## Tools & Technologies
@@ -21,15 +21,15 @@ The goal is to help app developers make data-driven decisions about what types o
 
 ## Repository Structure
 app-market-analysis/
---> data/ # Raw datasets
---> notebooks/ # Jupyter notebooks
+--> data/ # Raw and Clean datasets
+--> notebooks/ # Jupyter notebooks + Insight and Recommendations
 --> outputs/ # Cleaned data, charts, Tableau exports
 --> README.md # Project documentation
 
 ## Expected Outcomes
-- Identify the most profitable app categories
-- Recommend characteristics of successful apps
-- Showcase data analysis and visualization skills
+- Identify the most popular app categories that attract the largest number of users in each market
+- Highlight characteristics of successful apps
+- Showcase data analysis and visualization skills using Python, Jupyter, and Tableau
 
 ### Sources (for datasets)
 - Apple App Store: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
