@@ -30,3 +30,10 @@ app-market-analysis/
 - Identify the most profitable app categories
 - Recommend characteristics of successful apps
 - Showcase data analysis and visualization skills
+
+### Sources (for datasets)
+- Apple App Store: https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps/data
+- Google Play Store: L. Gupta, "Google Play Store Apps," Feb 2019. [Online]. Available: https://www.kaggle.com/lava18/google-play-store-apps
+
+
+
