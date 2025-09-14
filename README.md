@@ -31,7 +31,7 @@ app-market-analysis/
 - Highlight characteristics of successful apps
 - Showcase data analysis and visualization skills using Python, Jupyter, and Tableau
 
-## Link for Tablaeu Visualization
+## Link for Tableau Visualization
 https://public.tableau.com/views/AppMarketAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Sources (for datasets)
