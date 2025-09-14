@@ -1,0 +1,22 @@
+## INSIGHTS AND RECOMMENDATIONS
+
+### IOS
+- "Games" category dominate the App Store with 18% of the market, making up the largest share of apps in the Apple Store. However, competition is extremely high (especially install rate is not so high) so standing out in this category is challenging.
+- “Navigation” category has the highest number of installs despite smaller number of apps in the market
+- Average ratings across categories are relatively consistent, but categories like “Catalogs” and “Productivity” show higher average user satisfaction.
+- “Music” and “Photo & Video” apps show moderate representation but also strong user engagement (using rating counts as a proxy for installs). These categories may offer more balanced opportunities.
+
+### Android
+- The “Communication” and “Video Players” categories attract the highest average installs, confirming strong demand with fewer number of apps in the market. These categories will be a great opportunity for new entrants.
+- Categories like “Social” and “Games" maintain solid installs with higher-than-average ratings, showing potential niches for quality apps.
+
+### Cross-Platform Takeaways
+- “Games” category dominate both markets, but saturation means new apps need strong differentiation or unique features.
+- “Photo & Video”/“Photography” and “Productivity” category stand out as categories with good user reach, relatively lower competition, and solid ratings —> promising areas for ad-supported apps.
+- High installs + strong ratings suggest categories where users are both numerous and satisfied, increasing the likelihood of retention and ad engagement.
+
+### Recommendations
+1. Focus on categories with high installs but moderate competition 
+2. Avoid oversaturated markets like Games unless offering a highly differentiated concept.
+3. Prioritize categories with strong user ratings, as high satisfaction likely leads to better long-term engagement and monetization opportunities.  
+4. Use these insights to guide app development toward categories with strong user demand and growth potential in ad-supported models.
