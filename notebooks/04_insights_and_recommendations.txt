@@ -17,6 +17,6 @@
 
 ### Recommendations
 1. Focus on categories with high installs but moderate competition 
-2. Avoid oversaturated markets like Games unless offering a highly differentiated concept.
+2. Avoid oversaturated markets like "Games" unless offering a highly differentiated concept.
 3. Prioritize categories with strong user ratings, as high satisfaction likely leads to better long-term engagement and monetization opportunities.  
 4. Use these insights to guide app development toward categories with strong user demand and growth potential in ad-supported models.
